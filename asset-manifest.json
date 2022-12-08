@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.666ddf2e.css",
-    "main.js": "/react-portfolio/static/js/main.55f9d6e3.js",
-    "static/js/787.a2cb61a6.chunk.js": "/react-portfolio/static/js/787.a2cb61a6.chunk.js",
-    "static/media/roadtripcierge.png": "/react-portfolio/static/media/roadtripcierge.9358ed94351c9862c407.png",
-    "static/media/portfolio-screenshot.PNG": "/react-portfolio/static/media/portfolio-screenshot.3e655f10e983a0bf3376.PNG",
-    "static/media/giglr.png": "/react-portfolio/static/media/giglr.e20690858d72a3dc2389.png",
-    "static/media/starship-screen.png": "/react-portfolio/static/media/starship-screen.a01de1418224aefa2050.png",
-    "static/media/banner.jpg": "/react-portfolio/static/media/banner.d8a17bbd9b600704c796.jpg",
-    "static/media/GitHub2.png": "/react-portfolio/static/media/GitHub2.987334e9f782cc505f25.png",
-    "index.html": "/react-portfolio/index.html",
-    "main.666ddf2e.css.map": "/react-portfolio/static/css/main.666ddf2e.css.map",
-    "main.55f9d6e3.js.map": "/react-portfolio/static/js/main.55f9d6e3.js.map",
-    "787.a2cb61a6.chunk.js.map": "/react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
+    "main.css": "/react-portfolio-bryan/static/css/main.666ddf2e.css",
+    "main.js": "/react-portfolio-bryan/static/js/main.f3f2da87.js",
+    "static/js/787.a2cb61a6.chunk.js": "/react-portfolio-bryan/static/js/787.a2cb61a6.chunk.js",
+    "static/media/roadtripcierge.png": "/react-portfolio-bryan/static/media/roadtripcierge.9358ed94351c9862c407.png",
+    "static/media/portfolio-screenshot.PNG": "/react-portfolio-bryan/static/media/portfolio-screenshot.3e655f10e983a0bf3376.PNG",
+    "static/media/giglr.png": "/react-portfolio-bryan/static/media/giglr.e20690858d72a3dc2389.png",
+    "static/media/starship-screen.png": "/react-portfolio-bryan/static/media/starship-screen.a01de1418224aefa2050.png",
+    "static/media/banner.jpg": "/react-portfolio-bryan/static/media/banner.d8a17bbd9b600704c796.jpg",
+    "static/media/GitHub2.png": "/react-portfolio-bryan/static/media/GitHub2.987334e9f782cc505f25.png",
+    "index.html": "/react-portfolio-bryan/index.html",
+    "main.666ddf2e.css.map": "/react-portfolio-bryan/static/css/main.666ddf2e.css.map",
+    "main.f3f2da87.js.map": "/react-portfolio-bryan/static/js/main.f3f2da87.js.map",
+    "787.a2cb61a6.chunk.js.map": "/react-portfolio-bryan/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.666ddf2e.css",
-    "static/js/main.55f9d6e3.js"
+    "static/js/main.f3f2da87.js"
   ]
 }
