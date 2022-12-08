@@ -24,7 +24,7 @@ function Portfolio() {
           name: 'StarShip',
           description: 'StarShip provides users the platform to track stock market data. Users are able to track the market in general or they can search up a specific stock.',
           builtWith: ['JavaScript', 'MongoDb', 'Express.js', 'React.js', 'Node.js', 'Apollo', 'GraphQL', 'Alpaca API', 'Material UI'],
-          screenshot: 'roadtripcierge.png',
+          screenshot: 'starship-screen.png',
           url:'https://still-cliffs-68409.herokuapp.com/'
         },
         {
